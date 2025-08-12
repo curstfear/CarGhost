@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_CarGhost/Scenes/SampleScene.unity
+    path: Assets/_CarGhost/Scenes/MenuScene.unity
+    guid: ae942534c8a0a2a46b232606657f119b
+  - enabled: 1
+    path: Assets/_CarGhost/Scenes/GameScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

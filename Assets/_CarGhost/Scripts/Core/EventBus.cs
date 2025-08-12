@@ -22,6 +22,10 @@ public class EventBus
 
     //Game
     public Action GameSceneLoaded;
+    public Action GamePrefareToStart;
     public Action GameStarted;
+
+    //Race
+    public Action PlayerFinished;
 
 }
